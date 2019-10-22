@@ -1,0 +1,31 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "Site Web Perso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "HTTP"
+  ],
+  "author": "Aurelien",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "axios": "^0.19.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.5",
+    "nodemon": "^1.19.4",
+    "package.json": "^2.0.1",
+    "popper.js": "^1.16.0",
+    "request": "^2.88.0"
+  }
+}
